@@ -1,1 +1,3 @@
-config.file.name: application-dev.properties
+config:
+  file:
+    name: application-dev.properties

@@ -1,1 +1,3 @@
-config.file.name: application.yaml
+config:
+  file:
+    name: application.yaml

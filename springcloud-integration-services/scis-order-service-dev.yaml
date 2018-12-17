@@ -1,1 +1,3 @@
-config.file.name: scis-order-service-dev.yaml
+config:
+  file:
+    name: scis-order-service-dev.yaml
