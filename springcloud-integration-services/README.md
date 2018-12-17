@@ -15,3 +15,8 @@
  - **积分系统**： scis-integral-service
    - **开发环境**: [scis-integral-service-dev.yaml](https://github.com/AnswerAICode/spring-cloud-config/blob/master/springcloud-integration-services/scis-integral-service-dev.yaml)
    - **生产环境**: [scis-integral-service-dev.yaml](https://github.com/AnswerAICode/spring-cloud-config/blob/master/springcloud-integration-services/scis-integral-service-prod.yaml)
+
+ - **默认配置**
+   - **开发环境**: [application-dev.yaml](https://github.com/AnswerAICode/spring-cloud-config/blob/master/springcloud-integration-services/application-dev.yaml)
+   - **生产环境**: [application-prod.yaml](https://github.com/AnswerAICode/spring-cloud-config/blob/master/springcloud-integration-services/application-prod.yaml)
+   - **开发 & 生产环境**: [application.yaml](https://github.com/AnswerAICode/spring-cloud-config/blob/master/springcloud-integration-services/application.yaml)
