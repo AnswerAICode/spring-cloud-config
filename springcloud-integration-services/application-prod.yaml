@@ -1,1 +1,1 @@
-config.file.name: application-prod.properties
+config.file.name: application-dev.yaml
