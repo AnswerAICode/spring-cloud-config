@@ -24,3 +24,6 @@
     # http://127.0.0.1:8888/spring-cloud-config-prod.properties 
     # http://127.0.0.1:8888/9500e50f08c43e3e4391175c8f6d5a326b11302f/spring-cloud-config-prod.properties
 ```  
+
+### 附录 - 参考文档
+ - [x] [Spring Cloud 配置中心的基本用法](http://www.cnblogs.com/heqiyoujing/p/9445475.html)
