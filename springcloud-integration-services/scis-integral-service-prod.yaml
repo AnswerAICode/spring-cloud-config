@@ -1,0 +1,3 @@
+config:
+  file:
+    name: scis-integral-service-dev.yaml

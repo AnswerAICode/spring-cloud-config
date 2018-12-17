@@ -1,0 +1,3 @@
+config:
+  file:
+    name: scis-warehousing-service-dev.yaml
