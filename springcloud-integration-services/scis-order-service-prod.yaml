@@ -1,3 +1,6 @@
+server:
+  port: 8810
+
 eureka:
   client:
     # 指定服务注册中心的位置

@@ -1,3 +1,16 @@
+server:
+  port: 8840
+
+eureka:
+  client:
+    # 指定服务注册中心的位置
+    service-url:
+      defaultZone: http://localhost:8710/eureka/
+
+
+
+
+
 config:
   file:
     name: scis-integral-service-dev.yaml
