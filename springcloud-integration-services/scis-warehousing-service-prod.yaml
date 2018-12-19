@@ -2,15 +2,13 @@ server:
   port: 8830
 
 eureka:
+  # 显示服务IP地址
+  instance:
+      prefer-ip-address: true
   client:
     # 指定服务注册中心的位置
     service-url:
       defaultZone: http://localhost:8710/eureka/
-
-# 显示服务IP地址
-eureka:
-  instance:
-    prefer-ip-address: true
 
 
 
